@@ -17,4 +17,4 @@ The goal of this project is to collect data from the specified Wikipedia page an
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Data_Collection_to_CRM_Project.git
+   git clone https://github.com/zulfianarahmi/Data_Collection_to_CRM_Project.git
